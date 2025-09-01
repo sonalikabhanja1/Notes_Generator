@@ -1,7 +1,6 @@
 // ========== Multiple API Keys ==========
 const API_KEYS = [
-  "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",
-  "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"
+  "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"
 ];
 let currentKeyIndex = 0;
 
@@ -119,4 +118,5 @@ document.getElementById("search-btn").addEventListener("click", () => {
   }
   generateNotes(input);
 });
+
 
