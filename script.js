@@ -1,6 +1,6 @@
 // ========== Multiple API Keys ==========
 const API_KEYS = [
-  "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"
+  "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"
 ];
 let currentKeyIndex = 0;
 
@@ -118,3 +118,4 @@ document.getElementById("search-btn").addEventListener("click", () => {
   }
   generateNotes(input);
 });
+
