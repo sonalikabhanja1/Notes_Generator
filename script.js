@@ -119,3 +119,4 @@ document.getElementById("search-btn").addEventListener("click", () => {
   }
   generateNotes(input);
 });
+
